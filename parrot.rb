@@ -1,2 +1,2 @@
-def parrot(pharse)
-  puts pharse = "Squawk!"
+def parrot
+  
